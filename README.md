@@ -1,4 +1,4 @@
-
+# COVID-19 Data Analysis and Visualization
 This project focuses on the analysis and visualization of COVID-19 data using Python. It highlights data cleaning, exploratory data analysis (EDA), and visual representation of key insights through various plotting libraries.
 ## Features
 **Monthly Trends**: Line chart showing the trends of COVID-19 metrics (cases, deaths, recoveries) over time.        
